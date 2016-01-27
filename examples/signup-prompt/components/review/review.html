@@ -1,0 +1,5 @@
+<div ng-if='review.signupPrompt.showReview'>
+    <div ng-show='review.signupPrompt.isSubscribing'>Great! (sign up here...)</div>
+    <div ng-show='!review.signupPrompt.isSubscribing'>No problem, check out our other great features...</div>
+    <a href ng-click='review.goToSignup()'>Back to Signup</a>
+</div>

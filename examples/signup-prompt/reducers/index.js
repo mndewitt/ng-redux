@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
-import counter from './counter';
+import signupPrompt from './signup-prompt';
 
 const rootReducer = combineReducers({
-  counter
+    signupPrompt
 });
 
 export default rootReducer;

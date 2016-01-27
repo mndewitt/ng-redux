@@ -14,7 +14,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'ngRedux Counter',
+      title: 'ngRedux Signup',
       template: './index.html',
       inject: 'body'
     }),

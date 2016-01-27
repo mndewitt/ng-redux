@@ -1,7 +1,7 @@
 {
-  "name": "ng-redux-counter-example",
+  "name": "ng-redux-signup-example",
   "version": "0.0.0",
-  "description": "ng-redux counter example",
+  "description": "ng-redux signup prompt example",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --content-base dist/ --inline"
